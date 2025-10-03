@@ -2,16 +2,16 @@
 
 
 ### Overview
-- Installation of Windows Server 2025 Evaluation Edition, Active Directory, and Windows 11 OS on Oracle VirtualBox VM
+- <b>Windows Server 2025</b>, <b>Active Directory</b> and <b>Windows 11</b> will be deployed inside <b>Oracle VirtualBox VM/b>
+    <ul>To keep the installation simple, default configuration will be used.
+    </ul>
   
 
 <!--------------REQUIREMENTS--------------->
 
 <details>
 <summary><b>Requirements</b></summary>
-<ol><b>Windows Server</b>, <b>Active Directory</b> and <b>Windows 11</b> will all be deployed in <b>Oracle VirtualBox VM</b>
-    <ul>line
-    </ul>
+<ol>
 </ol>
 </details>
 <br/>
@@ -28,6 +28,9 @@ Installations in GIFs are sped up to keep them watchable.<br/>
 Actual installation will require more time(+30min).
 </details>
 <br/>
+
+
+
 <!--------------TABLEofCONTENTS--------------->
 
 
@@ -48,7 +51,9 @@ Actual installation will require more time(+30min).
 <a href="#gif2">Windows Server 2025 ISO Aquisition »</a>
     <ul>
     <a href="#gif3">New VM »</a><br/>
-    <a href="#gif4">Windows Server 2025 Setup »</a><br/>
+    <a href="#gif4">Boot Setup »</a><br/>
+    <a href="#gif5">Installation »</a><br/>
+    <a href="#gif6">New VM »</a>
     </ul>
 </ol>
 </details>
@@ -64,7 +69,7 @@ Actual installation will require more time(+30min).
 Launch your browser and head over to <b>Microsoft's official site</b> and download <a href="https://www.microsoft.com/en-us/software-download/windows11">Windows 11 Disk Image ISO for x64 device</a>: 
 <br/>
 <br/>
-<img src=".gif\ActiveDirectory\1-AD-win11isoDownload.gif" height="80%" width="80%" alt="Windows 11 download"/>
+<img src="gifs/1-AD-win11isoDownload.gif" height="80%" width="80%" alt="Windows 11 download"/>
 <br/><a id=""></a><br/>
 </p>
 <!--gif1-->
@@ -92,7 +97,7 @@ Open <b>Oracle VirtualBox VM</b> and attach the <a href="https://www.microsoft.c
 Head over to <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025"><b>Microsoft's official site</b></a>, complete the registration, and download the <b>Windows Server 2025 Evaluation edition ISO for x64 devices</b>:
 <br/>
 <br/>
-<img src=".gif/ActiveDirectory/2-AD-winServer25isoDownload.gif" height="80%" width="80%" alt="WinServer25 Eval Download"/>
+<img src="gifs/2-AD-winServer25isoDownload.gif" height="80%" width="80%" alt="WinServer25 Eval Download"/>
 </p>
 <!--gif2-->
 
@@ -105,7 +110,7 @@ Head over to <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-window
 Open <b>Oracle VirtualBox VM</b>, create a <b>new virtual machine</b>, attach the <b>Windows Server ISO</b>, and <b>allocate resources</b>: 
 <br/>
 <br/>
-<img src=".gif\ActiveDirectory\3-AD-winServer25newVM.gif" height="80%" width="80%" alt="winServer25 New VM"/>
+<img src="gifs/3-AD-winServer25newVM.gif" height="80%" width="80%" alt="winServer25 New VM"/>
 </p>
 <!--gif3-->
 
@@ -118,7 +123,7 @@ Open <b>Oracle VirtualBox VM</b>, create a <b>new virtual machine</b>, attach th
 Start the new <b>Windows Server 2025 VM</b> select the ISO boot file, and complete the <b>Windows Server Setup</b>: 
 <br/>
 <br/>
-<img src=".gif\ActiveDirectory\4-AD-winServerSetup.gif" height="80%" width="80%" alt="winServer25 Setup"/>
+<img src="gifs/4-AD-winServerSetup.gif" height="80%" width="80%" alt="winServer25 Setup"/>
 
 </p>
 <!--gif4-->
@@ -132,7 +137,7 @@ Start the new <b>Windows Server 2025 VM</b> select the ISO boot file, and comple
 Finish installing <b>Windows Server 2025</b>: <br/>**Restart the virtual machine as many times as needed**
 <br/>
 <br/>
-<img src=".gif\ActiveDirectory\5-AD-winServerInstall.gif" height="80%" width="80%" alt="winServer25 Install"/>
+<img src="gifs/5-AD-winServerInstall.gif" height="80%" width="80%" alt="winServer25 Install"/>
 </p>
 <!--gif5-->
 
@@ -145,7 +150,7 @@ Finish installing <b>Windows Server 2025</b>: <br/>**Restart the virtual machine
 Once <b>Windows Server 2025</b> is installed, create a new password for the default <b>Administrator account</b> and log in: 
 <br/>
 <br/>
-<img src=".gif/ActiveDirectory/6-AD-winServerAdminSetup.gif" height="80%" width="80%" alt="winServer25 Admin Profile Setup"/>
+<img src="gifs/6-AD-winServerAdminSetup.gif" height="80%" width="80%" alt="winServer25 Admin Profile Setup"/>
 </p>
 <!--gif6-->
 
@@ -167,7 +172,7 @@ Once <b>Windows Server 2025</b> is installed, create a new password for the defa
 Install <b>Active Directory</b> by selecting the <b>Add roles and features</b> option in the <b>Server Manager</b>: 
 <br/>
 <br/>
-<img src=".gif\ActiveDirectory\7-AD-DomainSetup.gif" height="80%" width="80%" alt="winServer25 Admin Profile Setup"/>
+<img src="gifs/7-AD-DomainSetup.gif" height="80%" width="80%" alt="winServer25 Admin Profile Setup"/>
 <br/><br/>
 </p>
 <!--gif7-->
