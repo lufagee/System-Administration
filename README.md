@@ -56,6 +56,11 @@ Actual installation will require more time(+30min).
     <a href="#gif6">New VM »</a>
     </ul>
 </ol>
+
+<ol>
+<a href="#gif7">Active Directory</a>
+</ol>
+
 </details>
 <br/>
 
