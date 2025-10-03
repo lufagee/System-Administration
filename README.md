@@ -2,7 +2,7 @@
 
 
 ### Overview
-- <b>Windows Server 2025</b>, <b>Active Directory</b> and <b>Windows 11</b> will be deployed inside <b>Oracle VirtualBox VM/b>
+- <b>Windows Server 2025</b>, <b>Active Directory</b> and <b>Windows 11</b> will be deployed inside <b>Oracle VirtualBox VM</b>
     <ul>To keep the installation simple, default configuration will be used.
     </ul>
   
