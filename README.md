@@ -12,6 +12,10 @@
 <details>
 <summary><b>Requirements</b></summary>
 <ol>
+<b>Oracle VirtualBox VM</b>
+</ol>
+<ol>
+Internet connection
 </ol>
 </details>
 <br/>
