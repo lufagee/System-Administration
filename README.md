@@ -11,12 +11,9 @@
 
 <details>
 <summary><b>Requirements</b></summary>
-<ol>
-<b>Oracle VirtualBox VM</b>
-</ol>
-<ol>
-Internet connection
-</ol>
+<ol><b>Oracle VirtualBox VM</b></ol>
+<ol>Internet connection</ol>    
+<ol>Patience</ol>
 </details>
 <br/>
 
