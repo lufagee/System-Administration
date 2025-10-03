@@ -71,7 +71,7 @@ Actual installation will require more time(+30min).
 ## :window: Windows 11 ISO Aquisition & Installation
 
 <p align="center">
-Launch your browser and head over to <b>Microsoft's official site</b> and download <a href="https://www.microsoft.com/en-us/software-download/windows11">Windows 11 Disk Image ISO for x64 device</a>: 
+Launch your browser and head over to <b>Microsoft's official site</b> and download <a href="https://www.microsoft.com/en-us/software-download/windows11"><b>Windows 11 Disk Image ISO</b> for x64 device</a>: 
 <br/>
 <br/>
 <img src="gifs/1-AD-win11isoDownload.gif" height="80%" width="80%" alt="Windows 11 download"/>
@@ -82,7 +82,7 @@ Launch your browser and head over to <b>Microsoft's official site</b> and downlo
 <!--gif1.2-->
 <a id="gif1.2"></a>
 <p align="center">
-Open <b>Oracle VirtualBox VM</b> and attach the <a href="https://www.microsoft.com/en-us/software-download/windows11">Windows 11 ISO</a> to a new virtual machine: 
+Open <b>Oracle VirtualBox VM</b> and attach the <a href="https://www.microsoft.com/en-us/software-download/windows11"><b>Windows 11 ISO</b></a> to a new virtual machine: 
 <br/>
 <br/>
 <img src="1.2Windows 11 ISO install" height="80%" width="80%" alt="PLACE: Windows 11 iso install GIF"/>
