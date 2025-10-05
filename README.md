@@ -184,6 +184,23 @@ Install <b>Active Directory</b> by selecting the <b>Add roles and features</b> o
 <!--gif7-->
 
 
+
+<!--gif8-->
+### User, Group, and Object Management
+
+<p align="center">
+Log into <b>Windows Server 2025</b> and add a new <b>Organizational Unit</b>: 
+<br/>
+<br/>
+<img src="gifs/1-AD-win11isoDownload.gif" height="80%" width="80%" alt="Windows 11 download"/>
+<br/><a id=""></a><br/>
+</p>
+
+
+<!--gif8-->
+
+
+
 <h2 align="center"><b>🎉🎉🎉 CONGRATULATIONS</b> 🎉🎉🎉</h2>
 <h4 align="center">🎊 You just Installed <b>Active Directory!</b> 🎊</b><br/><br/>
 Now you are ready for some centralized management!🥳</h4>
