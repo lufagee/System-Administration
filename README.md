@@ -185,10 +185,13 @@ Install <b>Active Directory</b> by selecting the <b>Add roles and features</b> o
 </p>
 <!--gif7-->
 
+<h2 align="center"><b>🎉🎉🎉 CONGRATULATIONS</b> 🎉🎉🎉</h2>
+<h4 align="center">🎊 You just Installed <b>Active Directory!</b> 🎊</b><br/><br/>
+Now you are ready for some centralized management!🥳</h4>
 
-
+<br/><br/>
 <!--gif8-->
-### User, Group, and Object Management
+## User, Group, and Object Management
 
 <p align="center">
 Log into <b>Windows Server 2025</b> and add a new <b>Organizational Unit</b>: 
@@ -203,9 +206,7 @@ Log into <b>Windows Server 2025</b> and add a new <b>Organizational Unit</b>:
 
 
 
-<h2 align="center"><b>🎉🎉🎉 CONGRATULATIONS</b> 🎉🎉🎉</h2>
-<h4 align="center">🎊 You just Installed <b>Active Directory!</b> 🎊</b><br/><br/>
-Now you are ready for some centralized management!🥳</h4>
+
 
 <p align="right">(<a href="#readme-top"><strong>back to top »</strong></a>)</p>
 <br/>
