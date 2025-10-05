@@ -1,6 +1,6 @@
-# $${\color{hotpink}Getting \space Started \space with \space Windows \space Server}$$
+# $${\color{lightblue}Getting \space Started \space with \space Windows \space Server}$$
 
-## $${\color{hotpink}and \space Active \space Directory}$$
+## $${\color{lightblue}\space \space \space \space and \space Active \space Directory}$$
 
 
 ### Overview
