@@ -192,7 +192,7 @@ Install <b>Active Directory</b> by selecting the <b>Add roles and features</b> o
 Log into <b>Windows Server 2025</b> and add a new <b>Organizational Unit</b>: 
 <br/>
 <br/>
-<img src="gifs/1-AD-win11isoDownload.gif" height="80%" width="80%" alt="Windows 11 download"/>
+<img src="gifs/8-AD-DomainNewAdmin.gif" height="80%" width="80%" alt="winServer25 AD newAdmin"/>
 <br/><a id=""></a><br/>
 </p>
 
