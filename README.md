@@ -85,10 +85,10 @@ Launch your browser and head over to <b>Microsoft's official site</b> and downlo
 <!--gif1.2-->
 <a id="gif1.2"></a>
 <p align="center">
-Open <b>Oracle VirtualBox VM</b> and attach the <a href="https://www.microsoft.com/en-us/software-download/windows11"><b>Windows 11 ISO</b></a> to a new virtual machine: 
+Open <b>Oracle VirtualBox VM</b>, attach the <a href="https://www.microsoft.com/en-us/software-download/windows11"><b>Windows 11 ISO</b></a> to a new virtual machine, and <b>allocate resources</b>: 
 <br/>
 <br/>
-<img src="1.2Windows 11 ISO install" height="80%" width="80%" alt="PLACE: Windows 11 iso install GIF"/>
+<img src="gifs/9-AD-win11newVM.gif" height="80%" width="80%" alt="Windows 11 new VM"/>
 </p>
 <!--gif1.2-->
 
