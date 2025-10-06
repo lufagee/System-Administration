@@ -13,7 +13,7 @@
 
 <details>
 <summary><b>Requirements</b></summary>
-<ol><b>Oracle VirtualBox VM</b></ol>
+<ol><a href="https://github.com/lufagee/Virtualization#%EF%B8%8F-oracle-virtualbox-vm-aquisition--installation"><b>Oracle VirtualBox VM</b></a></ol>
 <ol>Internet connection</ol>    
 <ol>Patience</ol>
 </details>
