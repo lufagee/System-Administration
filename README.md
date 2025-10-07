@@ -63,9 +63,10 @@ Actual installation will require more time(+30min).
 <ol>
 <a href="#gif7">Active Directory</a>
     <ul>
-    <a href="gif8">Create new Organizational Unit & new User »</a><br/>
-    <a href="gif9">Create new OU with PowerShell script »</a><br/>
-    <a href="gif10">Create 10 new Users with PowerShell script »</a>
+    <a href="#use,-group,-and-object-management"><b>User, Group, and Object Management</b> »</a><br/>
+    <a href="#gif8">Create a new Organizational Unit & new User »</a><br/>
+    <a href="#gif9">Write Script for new OU with PowerShell ISE »</a><br/>
+    <a href="#gif10">Write Script for 10 new Users with PowerShell ISE »</a>
     </ul>
 </ol>
 
