@@ -88,6 +88,8 @@ Launch your browser and head over to <b>Microsoft's official site</b> and downlo
 </p>
 <!--gif1-->
 
+<br/>
+
 <!--gif1.2-->
 <a id="gif1.2"></a>
 <p align="center">
@@ -175,7 +177,7 @@ Once <b>Windows Server 2025</b> is installed, create a new password for the defa
 <h4 align="center">🎊 You just installed <b>Windows Server 2025</b> 🎊<br/>
 </h4>
 
-
+<br/>
 <br/>
 <br/>
 <br/>
@@ -201,7 +203,7 @@ Now you are ready for some centralized management!🥳</h4>
 
 <br/>
 <br/>
-
+<br/>
 
 <!--gif8-->
 <a id="gif8"></a>
@@ -221,6 +223,7 @@ Create a new <b>Organizational Unit</b> and <b>User</b> then add the user to the
 
 <!--gif9-->
 <a id="gif9"></a>
+### Create New OU with PowerShell ISE
 
 <p align="center">
 Write a script in <b>PowerShell ISE</b> to create a new <b>Organizational Unit</b>: 
@@ -236,6 +239,7 @@ Write a script in <b>PowerShell ISE</b> to create a new <b>Organizational Unit</
 
 <!--gif10-->
 <a id="gif10"></a>
+### Create 10 New Users with PowerShell ISE
 
 <p align="center">
 Write a script in <b>PowerShell ISE</b> to create <b>10 new Users</b>: 
