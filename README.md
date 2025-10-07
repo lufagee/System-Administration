@@ -44,14 +44,14 @@ Actual installation will require more time(+30min).
 </ol>
 
 <ol>
-<a href="#gif1">Windows 11 ISO Aquisition »</a>
+<a href="#gif1"><b>Windows 11 ISO Aquisition »</b></a>
     <ul>
     <a href="#gif1.2">Installation »</a>
     </ul>
 </ol>
 
 <ol>
-<a href="#gif2">Windows Server 2025 ISO Aquisition »</a>
+<a href="#gif2"><b>Windows Server 2025 ISO Aquisition »</b></a>
     <ul>
     <a href="#gif3">New VM »</a><br/>
     <a href="#gif4">Boot Setup »</a><br/>
@@ -61,7 +61,7 @@ Actual installation will require more time(+30min).
 </ol>
 
 <ol>
-<a href="#gif7">Active Directory</a>
+<a href="#gif7"><b>Active Directory</b></a>
     <ul>
     <a href="#user-group-and-object-management"><b>User, Group, and Object Management</b> »</a><br/>
     <a href="#gif8">Create a new Organizational Unit & new User »</a><br/>
@@ -208,7 +208,7 @@ Now you are ready for some centralized management!🥳</h4>
 ## User, Group, and Object Management
 
 <p align="center">
-Create a new <b>Organizational Unit</b> and User then add the user to the <b>Domain Admins</b> group: 
+Create a new <b>Organizational Unit</b> and <b>User</b> then add the user to the <b>Domain Admins</b> group: 
 <br/>
 <br/>
 <img src="gifs/8-AD-DomainNewAdmin.gif" height="80%" width="80%" alt="winServer25 AD newAdmin"/>
