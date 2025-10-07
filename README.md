@@ -93,7 +93,7 @@ Launch your browser and head over to <b>Microsoft's official site</b> and downlo
 Open <b>Oracle VirtualBox VM</b>, attach the <a href="https://www.microsoft.com/en-us/software-download/windows11"><b>Windows 11 ISO</b></a> to a new virtual machine, and <b>allocate resources</b>: 
 <br/>
 <br/>
-<img src="gifs/9-AD-win11newVM.gif" height="80%" width="80%" alt="Windows 11 new VM"/>
+<img src="gifs/1.2-AD-win11newVM.gif" height="80%" width="80%" alt="Windows 11 new VM"/>
 </p>
 <!--gif1.2-->
 
@@ -199,17 +199,28 @@ Now you are ready for some centralized management!🥳</h4>
 ## User, Group, and Object Management
 
 <p align="center">
-Log into <b>Windows Server 2025</b> and add a new <b>Organizational Unit</b>: 
+Create a new <b>Organizational Unit</b> and User then add the user to the <b>Domain Admins</b> group: 
 <br/>
 <br/>
 <img src="gifs/8-AD-DomainNewAdmin.gif" height="80%" width="80%" alt="winServer25 AD newAdmin"/>
 <br/><a id=""></a><br/>
 </p>
 
-
 <!--gif8-->
 
 
+<!--gif9-->
+## User, Group, and Object Management
+
+<p align="center">
+Create a new <b>Organizational Unit</b> and User then add the user to the <b>Domain Admins</b> group: 
+<br/>
+<br/>
+<img src="gifs/8-AD-DomainNewAdmin.gif" height="80%" width="80%" alt="winServer25 AD newAdmin"/>
+<br/><a id=""></a><br/>
+</p>
+
+<!--gif9-->
 
 
 
