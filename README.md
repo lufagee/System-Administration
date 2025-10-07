@@ -34,7 +34,7 @@ Actual installation will require more time(+30min).
 
 
 
-<!--------------TABLEofCONTENTS--------------->
+<!--------------TABLE OF CONTENTS--------------->
 
 
 <details>
@@ -63,9 +63,9 @@ Actual installation will require more time(+30min).
 <ol>
 <a href="#gif7">Active Directory</a>
     <ul>
-    <a href="gif9">Create new Organizational Unit & new User
-    <a href="gif10">Create new OU with PowerShell script
-    <a href="gif11">Create 10 new Users with PowerShell script 
+    <a href="gif8">Create new Organizational Unit & new User
+    <a href="gif9">Create new OU with PowerShell script
+    <a href="gif10">Create 10 new Users with PowerShell script 
     </ul>
 </ol>
 
@@ -168,9 +168,13 @@ Once <b>Windows Server 2025</b> is installed, create a new password for the defa
 <!--gif6-->
 
 
+
+
 <h2 align="center"><b>CONGRATULATIONS</b> 🎉🎉🎉</h2>
 <h4 align="center">🎊 You just installed <b>Windows Server 2025</b> 🎊<br/>
 </h4>
+
+
 <br/>
 <br/>
 <br/>
@@ -194,8 +198,12 @@ Install <b>Active Directory</b> by selecting the <b>Add roles and features</b> o
 <h4 align="center">🎊 You just Installed <b>Active Directory!</b> 🎊</b><br/><br/>
 Now you are ready for some centralized management!🥳</h4>
 
-<br/><br/>
+<br/>
+<br/>
+
+
 <!--gif8-->
+<a id="gif8"></a>
 ## User, Group, and Object Management
 
 <p align="center">
@@ -203,24 +211,40 @@ Create a new <b>Organizational Unit</b> and User then add the user to the <b>Dom
 <br/>
 <br/>
 <img src="gifs/8-AD-DomainNewAdmin.gif" height="80%" width="80%" alt="winServer25 AD newAdmin"/>
-<br/><a id=""></a><br/>
 </p>
-
+<br/>
+<br/>
 <!--gif8-->
 
 
+
 <!--gif9-->
-## User, Group, and Object Management
+<a id="gif9"></a>
 
 <p align="center">
-Create a new <b>Organizational Unit</b> and User then add the user to the <b>Domain Admins</b> group: 
+Write a script in <b>PowerShell ISE</b> to create a new <b>Organizational Unit</b>: 
 <br/>
 <br/>
-<img src="gifs/8-AD-DomainNewAdmin.gif" height="80%" width="80%" alt="winServer25 AD newAdmin"/>
-<br/><a id=""></a><br/>
+<img src="gifs/9-AD-ps1scriptNewOU_USERS.gif" height="80%" width="80%" alt="winServer25 AD PowerShell script _USERS"/>
 </p>
-
+<br/>
+<br/>
 <!--gif9-->
+
+
+
+<!--gif10-->
+<a id="gif10"></a>
+
+<p align="center">
+Write a script in <b>PowerShell ISE</b> to create <b>10 new Users</b>: 
+<br/>
+<br/>
+<img src="gifs/10-AD-ps1script10NewUsers.gif" height="80%" width="80%" alt="AD PowerShell ISE script 10 newUsers"/>
+</p>
+<br/>
+<br/>
+<!--gif10-->
 
 
 
